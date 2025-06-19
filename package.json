@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/server-puppeteer": "^0.2.3"
+    "@modelcontextprotocol/server-puppeteer"
   },
   "engines": {
     "node": ">=18"
